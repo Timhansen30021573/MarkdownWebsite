@@ -1,4 +1,3 @@
-
 # Tauranga Rugby Club
 ![Rugbygame](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4830875.jpg)
 
