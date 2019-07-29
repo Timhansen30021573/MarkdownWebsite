@@ -9,10 +9,10 @@ sed, fermentum quis lectus. Phasellus id augue hendrerit, mattis lectus eget, po
 
 ### Game/Practise times
 
-1.Saturday 3pm
-2.Sunday 1pm
-3.Wednesday 4pm
-4.Thursday 4pm
-5.Friday 6pm
+1. Saturday 3pm
+2. Sunday 1pm
+3. Wednesday 4pm
+4. Thursday 4pm
+5. Friday 6pm
 
 [Click here for more information](https://www.sporty.co.nz/tgasportssnr)
